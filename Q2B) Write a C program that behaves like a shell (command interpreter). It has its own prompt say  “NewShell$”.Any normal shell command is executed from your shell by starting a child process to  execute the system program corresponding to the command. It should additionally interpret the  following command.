@@ -1,0 +1,4 @@
+i) search f <pattern><filename> - search first occurrence of pattern in filename
+ii) search c <pattern><filename> - count no. of occurrences of pattern in filename
+iii) search a <pattern><filename> - search all occurrences of pattern in filename
+
